@@ -1,0 +1,5 @@
+ENC: AES
+Cipher_Mode: ECB
+Key_Size_Bits: 128
+Secret_Key: 3Fg2HjKl4Mn6OpQr
+Output_Format: Base64
